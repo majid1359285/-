@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>کانال‌سازی کولر توحید</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #ffcc00; /* رنگ زرد */
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    nav {
+      background-color: #0066cc; /* رنگ آبی */
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    nav a:hover {
+      background-color: #004d99; /* رنگ آبی تیره */
+    }
+    section {
+      padding: 20px;
+      background-color: white;
+      margin: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    footer {
+      background-color: #33cc33; /* رنگ سبز */
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    h1, h2 {
+      font-size: 24px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>کانال‌سازی کولر توحید</h1>
+</header>
+
+<nav>
+  <a href="#about">درباره ما</a>
+  <a href="#services">خدمات</a>
+  <a href="#ads">آگهی دیوار</a>
+  <a href="#contact">تماس با ما</a>
+</nav>
+
+<section id="about">
+  <h2>درباره ما</h2>
+  <p>ما به عنوان متخصصین کانال‌سازی کولر توحید، خدمات نصب و تعمیر کانال‌های کولر آبی و تهویه مطبوع را با بهترین کیفیت ارائه می‌دهیم.</p>
+  <img src="https://s8.uupload.ir/files/img_20250117_213619_yqmj.jpg" alt="کانال‌سازی کولر توحید">
+</section>
+
+<section id="services">
+  <h2>خدمات ما</h2>
+  <ul>
+    <li>نصب و طراحی کانال کولر</li>
+    <li>تعمیر و نگهداری سیستم‌های کانال‌سازی کولر</li>
+    <li>مشاوره در انتخاب سیستم مناسب تهویه</li>
+  </ul>
+</section>
+
+<section id="ads">
+  <h2>آگهی دیوار و نمونه کارهامون</h2>
+  <p>برای مشاهده آگهی‌های ما و نمونه کارهای بیشتر، می‌توانید به صفحه ما در دیوار مراجعه کنید:</p>
+  <a href="https://divar.ir/v/wZsdzIs7?ref=android" target="_blank" style="color: #0066cc; font-weight: bold;">
+    مشاهده آگهی دیوار
+  </a>
+</section>
+
+<section id="contact">
+  <h2>تماس با ما</h2>
+  <p>برای مشاوره و خدمات بیشتر با ما تماس بگیرید:</p>
+  <p><strong>شماره تماس:</strong> <a href="tel:+989194350358">۰۹۱۹۴۳۵۰۳۵۸</a></p>
+  <form>
+    <label for="name">نام:</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+    <label for="email">ایمیل:</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+    <label for="message">پیام:</label><br>
+    <textarea id="message" name="message" required></textarea><br><br>
+    <input type="submit" value="ارسال">
+  </form>
+</section>
+
+<footer>
+  <p>تمامی حقوق محفوظ است | کانال‌سازی کولر توحید</p>
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>کانال‌سازی کولر توحید</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #ffcc00; /* رنگ زرد */
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    nav {
+      background-color: #0066cc; /* رنگ آبی */
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    nav a:hover {
+      background-color: #004d99; /* رنگ آبی تیره */
+    }
+    section {
+      padding: 20px;
+      background-color: white;
+      margin: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    footer {
+      background-color: #33cc33; /* رنگ سبز */
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    h1, h2 {
+      font-size: 24px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>کانال‌سازی کولر توحید</h1>
+</header>
+
+<nav>
+  <a href="#about">درباره ما</a>
+  <a href="#services">خدمات</a>
+  <a href="#ads">آگهی دیوار</a>
+  <a href="#contact">تماس با ما</a>
+</nav>
+
+<section id="about">
+  <h2>درباره ما</h2>
+  <p>ما به عنوان متخصصین کانال‌سازی کولر توحید، خدمات نصب و تعمیر کانال‌های کولر آبی و تهویه مطبوع را با بهترین کیفیت ارائه می‌دهیم.</p>
+  <img src="https://s8.uupload.ir/files/img_20250117_213619_yqmj.jpg" alt="کانال‌سازی کولر توحید">
+</section>
+
+<section id="services">
+  <h2>خدمات ما</h2>
+  <ul>
+    <li>نصب و طراحی کانال کولر</li>
+    <li>تعمیر و نگهداری سیستم‌های کانال‌سازی کولر</li>
+    <li>مشاوره در انتخاب سیستم مناسب تهویه</li>
+  </ul>
+</section>
+
+<section id="ads">
+  <h2>آگهی دیوار و نمونه کارهامون</h2>
+  <p>برای مشاهده آگهی‌های ما و نمونه کارهای بیشتر، می‌توانید به صفحه ما در دیوار مراجعه کنید:</p>
+  <a href="https://divar.ir/v/wZsdzIs7?ref=android" target="_blank" style="color: #0066cc; font-weight: bold;">
+    مشاهده آگهی دیوار
+  </a>
+</section>
+
+<section id="contact">
+  <h2>تماس با ما</h2>
+  <p>برای مشاوره و خدمات بیشتر با ما تماس بگیرید:</p>
+  <p><strong>شماره تماس:</strong> <a href="tel:+989194350358">۰۹۱۹۴۳۵۰۳۵۸</a></p>
+  <form>
+    <label for="name">نام:</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+    <label for="email">ایمیل:</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+    <label for="message">پیام:</label><br>
+    <textarea id="message" name="message" required></textarea><br><br>
+    <input type="submit" value="ارسال">
+  </form>
+</section>
+
+<footer>
+  <p>تمامی حقوق محفوظ است | کانال‌سازی کولر توحید</p>
+</footer>
+
+</body>
+</html>
